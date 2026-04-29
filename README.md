@@ -12,7 +12,7 @@
 
 ## 程式碼
 ```bash
-python english_test.py
+English_test.py(
 ```
 
 
