@@ -11,7 +11,7 @@
 - 記錄多次測驗成績並進行統計
 
 ## 程式碼
-[查看完整程式碼：English test](https://github.com/Benny01080108/english-test-code/blob/main/english%20test.py)
+查看完整程式碼：[English test](https://github.com/Benny01080108/english-test-code/blob/main/english%20test.py)
 
 
 
