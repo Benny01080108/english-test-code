@@ -12,7 +12,7 @@
 
 ## 程式碼
 ```bash
-English_test.py(
+English_test.py(https://github.com/Benny01080108/english-test-code/blob/main/english%20test.py)
 ```
 
 
